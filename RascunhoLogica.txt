@@ -1,0 +1,6 @@
+3 requisitos
+
+verificar se a peça possui mais de 100g
+	Sim: pode cadastrar
+	não: não pode cadastrar
+
